@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @BayBreezy
 - 👀 I’m interested in video games and programming.
-- 🌱 I’m currently learning a lot of backend tech stuff.
 - 📫 How to reach me
 - ✉ behon.baker@yahoo.com
 
