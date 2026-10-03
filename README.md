@@ -1,36 +1,130 @@
-![Header](./bbaker-gh-image.png)
+![Behon Baker, Software Developer](./behon-baker-banner.webp)
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="25" height="25" /> Who? Me?
+# Behon Baker
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="19" height="19" /> Hi, I'm Behon Baker, a seasoned Software Developer with over 10 years of experience specializing in crafting scalable SaaS products. I thrive on developing web applications that address the needs of large companies, particularly those still operating with manual processes. I love automating workflows and transforming pen-and-paper operations into efficient, technology-driven solutions. My tech stack includes JavaScript, TypeScript, C#, PHP and Python, with expertise in Vue.js, ReactJS, Nuxt.js, Tailwind CSS, Node.js, Django, Express.js, and more. Currently, I'm deeply engaged in building dynamic user interfaces, robust backends, and optimizing data storage. Explore my coding journey on GitHub, and let's connect on LinkedIn for a tech chat or potential collaboration. Happy coding! 
+**Senior Full-Stack Software Developer · Open-Source Maintainer · Technical Problem Solver**
 
+I design, build, and ship production software: SaaS products, business systems, APIs, developer tools, and the infrastructure they run on. Much of my work replaces slow, manual processes with software that people can rely on.
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Left.png" alt="Magnifying Glass Tilted Left" width="15" height="15" /> Where to find me
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Behon.BAY.BAY.Baker) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bay__breezy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/behon-baker-0062751b0) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/iAm_BayBreezy) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@breezycodes) 
+I have 12+ years of experience across software development and IT. I started in QA, moved into systems administration and databases, then grew into full-stack engineering, architecture, and technical leadership. That path is why I think about the whole system: the interface, the API, the data model, the deployment, and what happens when something breaks in production.
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="15" height="15" /> Stuff I have used before
-![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+[![Portfolio](https://img.shields.io/badge/Portfolio-behonbaker.com-451D96?style=flat-square)](https://behonbaker.com)
+[![GitHub](https://img.shields.io/badge/GitHub-BayBreezy-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/BayBreezy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Behon%20Baker-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/behon-baker-0062751b0)
+[![YouTube](https://img.shields.io/badge/YouTube-Breezy%20Codes-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@breezycodes)
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="15" height="15" /> GitHub stats:
-![](https://github-readme-stats.vercel.app/api?username=BayBreezy&theme=onedark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=BayBreezy&theme=onedark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BayBreezy&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+## At a Glance
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crown.png" alt="Crown" width="15" height="15" /> GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=BayBreezy&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
+| | |
+| --- | --- |
+| **Experience** | 12+ years across software development and IT: QA, systems administration, full-stack engineering, architecture, and technical leadership |
+| **Scope** | Senior, full-stack: frontend, backend, databases, and infrastructure |
+| **Open source** | Creator and maintainer of [UI Thing](https://uithing.com) and a family of published Nuxt and Strapi packages |
+| **Architecture & delivery** | System design, production deployment, and Linux server administration |
+| **Leadership** | Has led projects and worked directly with clients and stakeholders, from requirements through launch and support |
+| **Business systems** | SaaS platforms, admin portals, and business-critical applications |
+| **Teaching** | Practical software development tutorials on [YouTube](https://www.youtube.com/@breezycodes) |
+| **Availability** | Remote (Pacific Time). Open to senior engineering roles, contract work, and consulting |
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+## Featured Open Source
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Rolling%20on%20the%20Floor%20Laughing.png" alt="Rolling on the Floor Laughing" width="15" height="15" /> Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+I build tools that other developers install and depend on. Stars and download counts below are live.
+
+### [UI Thing](https://github.com/BayBreezy/ui-thing)
+
+![GitHub stars](https://img.shields.io/github/stars/BayBreezy/ui-thing?style=flat-square&logo=github&label=stars)
+![GitHub forks](https://img.shields.io/github/forks/BayBreezy/ui-thing?style=flat-square&logo=github&label=forks)
+![npm downloads](https://img.shields.io/npm/dm/ui-thing?style=flat-square&logo=npm&label=downloads)
+![npm version](https://img.shields.io/npm/v/ui-thing?style=flat-square&logo=npm&label=npm)
+
+A modern Nuxt component ecosystem built on [Reka UI](https://reka-ui.com) and Tailwind CSS, inspired by shadcn/ui and shadcn-vue. Components are added to your project as source code, so you can read, edit, and own them instead of fighting a black-box dependency. The ecosystem also includes a CLI, starter templates, and [docd](https://docd.uithing.com) for building documentation sites.
+
+**Stack:** Nuxt · Vue · Reka UI · Tailwind CSS · TypeScript
+
+[Documentation](https://uithing.com) · [Repository](https://github.com/BayBreezy/ui-thing) · Try it: `npx ui-thing@latest init`
+
+### More Nuxt & Strapi tooling
+
+| Project | What it does |
+| --- | --- |
+| **[Nuxt PDFMake](https://github.com/BayBreezy/nuxt-pdfmake)**<br>![Stars](https://img.shields.io/github/stars/BayBreezy/nuxt-pdfmake?style=flat-square&logo=github&label=stars) ![Downloads](https://img.shields.io/npm/dm/nuxt-pdfmake?style=flat-square&logo=npm&label=downloads) | Generate PDFs in Nuxt on the client or the server, with custom font support and a Nuxt DevTools panel. [Docs](https://nuxt-pdfmake.behonbaker.com/) |
+| **[Nuxt Tour](https://github.com/BayBreezy/nuxt-tour)**<br>![Stars](https://img.shields.io/github/stars/BayBreezy/nuxt-tour?style=flat-square&logo=github&label=stars) ![Downloads](https://img.shields.io/npm/dm/nuxt-tour?style=flat-square&logo=npm&label=downloads) | Guided product tours for Nuxt apps through a `VTour` component and a `useTour()` composable. Accessible, SSR-safe, and fully themeable. [Docs](https://nuxt-tour.behonbaker.com/) |
+| **[Strapi Email Designer 5](https://github.com/BayBreezy/strapi-plugin-email-designer-5)**<br>![Stars](https://img.shields.io/github/stars/BayBreezy/strapi-plugin-email-designer-5?style=flat-square&logo=github&label=stars) ![Downloads](https://img.shields.io/npm/dm/strapi-plugin-email-designer-5?style=flat-square&logo=npm&label=downloads) | A Strapi 5 plugin for designing reusable email templates visually in the admin panel, then sending them from your own controllers and services. [npm](https://www.npmjs.com/package/strapi-plugin-email-designer-5) |
+
+**Also maintained:**
+[Strapi Gen Types](https://github.com/BayBreezy/strapi-plugin-gen-types) (TypeScript types generated from your Strapi content types and components) ·
+[Nuxt Driver.js](https://github.com/BayBreezy/nuxt-driver.js) (onboarding tours with persistent progress) ·
+[Nuxt 3 + Vuetify 3 Starter](https://github.com/BayBreezy/nuxt3-vuetify3-starter) ·
+[UI Thing Starter](https://github.com/BayBreezy/ui-thing-starter)
+
+Browse everything on my [open-source page](https://behonbaker.com/open-source) or [all repositories by stars](https://github.com/BayBreezy?tab=repositories&sort=stargazers).
+
+## Selected Engineering Work
+
+Open source is only part of the picture. Most of my commercial work is private, so the [portfolio](https://behonbaker.com/work) covers it in case-study form. These are the kinds of systems I have built, deployed, and maintained:
+
+| Area | Examples |
+| --- | --- |
+| **Business platforms** | SaaS products, customer portals, internal and admin dashboards, role-based access control |
+| **Data & reporting** | Relational database design, reporting, data visualization |
+| **APIs & integrations** | REST and GraphQL APIs, authentication and authorization, payments, email and notification systems |
+| **Web applications** | PWAs with offline support, customer-facing business websites |
+| **Infrastructure** | Linux deployment and administration, SSL, firewalls, backups |
+| **Process automation** | Turning manual, pen-and-paper business processes into software |
+
+**Recent example: [SwiftShift](https://behonbaker.com/work/swiftshift)**, a courier and logistics platform for a Jamaica-based company. I built it end to end: the public site, a customer portal for package tracking and service requests, a staff admin area, the API, Stripe payments, and the production server it runs on.
+
+[See selected work](https://behonbaker.com/work) · [Open-source portfolio](https://behonbaker.com/open-source)
+
+## What I Build
+
+I am most effective on projects that look like this:
+
+- **Replacing manual workflows with software.** Spreadsheets, paper, and phone calls become systems that track, automate, and report.
+- **Admin portals and internal tools.** Software that lets staff run the business without waiting on a developer.
+- **SaaS and business applications.** From first commit to a running production server, including hosting, email, SSL, and backups.
+- **API and backend architecture.** Data models, authentication, permissions, and integrations designed to be maintained.
+- **Dashboards and reporting.** Turning operational data into something people can act on.
+- **Modernizing existing applications.** Untangling legacy code, improving performance, and making systems easier to extend.
+- **Developer tooling and reusable packages.** Documented and published for other developers to use.
+
+## Technical Expertise
+
+![Nuxt, Vue, React, TypeScript, Node.js, NestJS, PostgreSQL, Docker, Linux, and Tailwind CSS](https://skillicons.dev/icons?i=nuxt,vue,react,ts,nodejs,nestjs,postgres,docker,linux,tailwind&perline=10)
+
+| | |
+| --- | --- |
+| **Frontend** | Nuxt, Vue, React, Tailwind CSS, Vuetify, Reka UI |
+| **Backend** | Node.js, NestJS, Express, Django, Strapi, REST, GraphQL, authentication (JWT, Passport.js, Better Auth) |
+| **Data** | PostgreSQL, MySQL, MongoDB, Firebase, Prisma |
+| **Infrastructure & delivery** | Linux server administration, Docker, Nginx, Git, CI/CD, SSL, firewalls, backups |
+| **Languages** | TypeScript, JavaScript, Python, C#, PHP, SQL |
+
+## Teaching & Community
+
+I like explaining how things work. On [Breezy Codes](https://www.youtube.com/@breezycodes) I publish practical tutorials on Nuxt, Vue, Strapi, and full-stack development, built from problems I have solved in real projects. I also maintain the open-source libraries above, which means writing documentation, answering issues, and shipping releases in public.
+
+I am Jamaican, I work remotely, and I still enjoy building things I would want to use myself.
+
+## GitHub Activity
+
+[![Behon Baker's GitHub stats](https://github-readme-stats.vercel.app/api?username=BayBreezy&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/BayBreezy)
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BayBreezy&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)](https://github.com/BayBreezy?tab=repositories)
+
+### Trophies
+
+[![GitHub trophies for Behon Baker](https://github-profile-trophy-ten.vercel.app/?username=BayBreezy&theme=onedark&no-frame=true&no-bg=true&margin-w=4)](https://github.com/BayBreezy)
+
+## Support My Open Source Work
+
+If UI Thing or one of my other packages saves you time, you can help keep it maintained.
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/llehXIrI8g)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=BayBreezy&icon=8&color=6)](https://visitcount.itsvg.in)
 
+## Let's Work Together
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/llehXIrI8g) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/behonbaker) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/baybreezy) <img src="https://komarev.com/ghpvc/?username=BayBreezy&style=for-the-badge" />
+Interested in working together, discussing a project, or using one of my open-source tools?
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[Portfolio](https://behonbaker.com) · [Contact](https://behonbaker.com/contact) · [LinkedIn](https://linkedin.com/in/behon-baker-0062751b0) · [YouTube](https://www.youtube.com/@breezycodes) · [Open-source portfolio](https://behonbaker.com/open-source)
